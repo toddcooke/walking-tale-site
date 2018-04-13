@@ -1,3 +1,4 @@
+<img src="images\walkingtale3.png">
 # Walking Tale
 
 Make your own location-based stories with pictures, sounds, and videos!
@@ -13,4 +14,4 @@ Maybe you're new in town and looking for something fun -- pull Walking Tale up a
 Lorum ipsum dipsum
 
 
-
+<img src="images\whale2.png">
