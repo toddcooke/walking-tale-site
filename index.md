@@ -12,6 +12,6 @@ Maybe you're new in town and looking for something fun -- pull Walking Tale up a
 
 ## How-to
 
-[Privacy Policy](privacy_policy.md)
+## [Privacy Policy](privacy_policy.md)
 
 <img src="images\whale2.png">

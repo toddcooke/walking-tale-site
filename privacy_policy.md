@@ -1,6 +1,6 @@
 # Walking Tale Privacy Policy
 
-### What information do you collect?
+### What information do we collect?
 
 **Email addresses** are used and stored by 
 [AWS Cognito](https://aws.amazon.com/compliance/data-privacy-faq/)
@@ -10,12 +10,13 @@
 
 All user data may be deleted through an option in the settings menu.
 
-### How do you use the information?
+### How do we use the information?
 
-Posts are publicly available through the app, but no personally identifying information
-is attached to any post.
+Posts are publicly available through the app.
+Each post includes the username of its creator, as well
+as the location where it was created.
 
-### What information do you share?
+### What information do we share?
 
 No personally identifying information is shared.
 
