@@ -1,4 +1,4 @@
-<img src="images\feature1.PNG">
+<img src="images\feature1.PNG" alt="hi" class="inline"/>
 
 # Walking Tale
 
