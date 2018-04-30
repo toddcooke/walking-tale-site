@@ -1,4 +1,4 @@
-[index.md](Home)
+#[Home](index.md)
 
 # Meet the team!
 
