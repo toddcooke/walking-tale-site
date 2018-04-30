@@ -7,11 +7,11 @@ Walking Tale lets you create your own stories and experience the stories of othe
 
 ## How-to
 
-## [Meet the team!](team.md)
+## [Meet the team](team.md)
 
 ## [Privacy Policy](privacy_policy.md)
 
-## Artwork!
+## [Artwork](art.md)
 
 <img src="images\new_whale.PNG">
 
