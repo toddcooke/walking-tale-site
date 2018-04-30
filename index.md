@@ -1,4 +1,4 @@
-<img src="images\feature1.png">
+<img src="images\feature1.PNG">
 
 # Walking Tale
 
@@ -17,6 +17,6 @@ Walking Tale lets you create your own stories and experience the stories of othe
 
 ## Artwork!
 
-<img src="images\new_whale.png">
+<img src="images\new_whale.PNG">
 
 <img src="images\whalefront2xcf.png">
