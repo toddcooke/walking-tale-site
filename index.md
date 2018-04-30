@@ -1,5 +1,4 @@
-[team.md](Team) [Privacy Policy](privacy_policy.md)
-<img src="images\feature3.png">
+<img src="images\feature1.png">
 
 # Walking Tale
 
@@ -12,7 +11,12 @@ Walking Tale lets you create your own stories and experience the stories of othe
 
 ## How-to
 
+## [team.md](Meat the team!)
+
 ## [Privacy Policy](privacy_policy.md)
 
+## Artwork!
+
 <img src="images\new_whale.png">
+
 <img src="images\whalefront2xcf.png">
