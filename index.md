@@ -13,6 +13,3 @@ Walking Tale lets you create your own stories and experience the stories of othe
 
 ## [Artwork](art.md)
 
-<img src="images\new_whale.PNG">
-
-<img src="images\whalefront2xcf.png">
