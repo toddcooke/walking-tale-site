@@ -1,3 +1,4 @@
+[team.md](Team) [Privacy Policy](privacy_policy.md)
 <img src="images\feature3.png">
 
 # Walking Tale
