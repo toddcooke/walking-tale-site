@@ -1,1 +1,5 @@
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
+theme: jekyll-theme-modernist
+
+title: Walking Tale
+description: Location-based content you share with the world!

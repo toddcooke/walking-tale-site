@@ -11,7 +11,7 @@ Walking Tale lets you create your own stories and experience the stories of othe
 
 ## How-to
 
-## [team.md](Meat the team!)
+## [Meet the team!](team.md)
 
 ## [Privacy Policy](privacy_policy.md)
 
