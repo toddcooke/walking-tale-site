@@ -4,7 +4,8 @@
 
 Walking Tale lets you create your own stories and experience the stories of others. Pictures, video, audio, and comments are added to the map. Group this content together and you can make your very own "Walking Tale". 
 
-# [<img src="images\google_play.png"/>](https://play.google.com/store/apps/details?id=com.talkingwhale)
+Get started now!
+# [<img src="images\google_play.png" =250px />](https://play.google.com/store/apps/details?id=com.talkingwhale)
 
 # How-to
 
